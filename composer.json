@@ -13,5 +13,12 @@
         "psr-4": {
             "Tiger\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tigers\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
