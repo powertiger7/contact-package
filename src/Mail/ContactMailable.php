@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiger\Contact\Mail;
+namespace Tigers\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

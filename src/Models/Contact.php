@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiger\Contact\Models;
+namespace Tigers\Contact\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

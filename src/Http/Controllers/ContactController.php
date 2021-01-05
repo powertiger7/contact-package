@@ -1,13 +1,13 @@
 <?php
 
-namespace Tiger\Contact\Http\Controllers;
+namespace Tigers\Contact\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Tiger\Contact\Models\Contact;
+use Tigers\Contact\Models\Contact;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Config;
-use Tiger\Contact\Mail\ContactMailable;
+use Tigers\Contact\Mail\ContactMailable;
 
 class ContactController extends Controller
 {

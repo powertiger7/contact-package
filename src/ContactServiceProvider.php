@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiger\Contact;
+namespace Tigers\Contact;
 
 use Illuminate\Support\ServiceProvider;
 
