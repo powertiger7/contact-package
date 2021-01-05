@@ -1,0 +1,17 @@
+{
+    "name": "tiger/contact",
+    "description": "this will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "TIGER",
+        "email": "powertiger563@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tiger\\Contact\\": "src/"
+        }
+    }
+}
